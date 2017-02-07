@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheerego.DapperExtension", "Cheerego.DapperExtension\Cheerego.DapperExtension.csproj", "{6F8E0F90-3C88-4BEC-BD92-B80A577ACBC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheerego.LuceneExtension", "Cheerego.LuceneExtension\Cheerego.LuceneExtension.csproj", "{53E4260D-269D-48A7-968F-68B84A4ABEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheerego.Core", "Cheerego.Core\Cheerego.Core.csproj", "{069376DF-048C-49AA-8F32-659A102E4416}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6F8E0F90-3C88-4BEC-BD92-B80A577ACBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F8E0F90-3C88-4BEC-BD92-B80A577ACBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F8E0F90-3C88-4BEC-BD92-B80A577ACBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E4260D-269D-48A7-968F-68B84A4ABEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E4260D-269D-48A7-968F-68B84A4ABEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E4260D-269D-48A7-968F-68B84A4ABEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E4260D-269D-48A7-968F-68B84A4ABEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069376DF-048C-49AA-8F32-659A102E4416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069376DF-048C-49AA-8F32-659A102E4416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069376DF-048C-49AA-8F32-659A102E4416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069376DF-048C-49AA-8F32-659A102E4416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
